@@ -1,0 +1,89 @@
+li{
+    list-style-type: none;
+}
+h2{
+    text-align: center;
+
+}
+a{
+    color: rgb(190, 174, 165);
+    text-decoration: underline;
+    margin: 0px;
+}
+#body-img{
+   background-image: url(../layout.png);
+   background-size: 100% 100%;
+}
+#logo {
+    width: 108px;
+    height: 64px;
+}
+#navzera{
+    margin-bottom: 30px;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+.right{
+    float: right;
+}
+.left{
+    float: left;
+}
+#img-principal{
+    height: 800px;
+    width: 100%
+}
+.d33{
+    height: 100%;
+    width: 33%;
+}
+.d60{
+    margin: 0 auto;
+    width: 60%;
+    height: 376px;
+}
+.pd{
+    margin-right:53px;
+    padding:13px;
+} 
+.footer{
+    width: 90%;
+    margin: 500px auto 0px auto;
+    color: rgb(170, 169, 169);
+    border-top: rgb(170, 169, 169) solid 1px;
+}
+#direitos{
+    position: absolute;
+    left: 90px;
+}
+p{
+    color: rgb(170, 169, 169);
+    font-family: sans-serif;
+    margin: -8px 0px 2px 0px;
+}
+h2{
+    margin-top: 75px;
+    font-family: sans-serif;
+}
+.home{
+    text-decoration: underline;
+}
+#menor{
+    text-align: center;
+    width: 770px;
+    margin: 30px auto 60px auto;
+}
+#latim{
+    font-size: 22px;
+}
+.sla{
+    margin-bottom: 25px;
+    height: 270px;
+    width: 330px;
+}
+#a-vei{
+    margin-bottom: 70px;
+}
+.final{
+    margin: 30px 5px 30px 5px;
+}

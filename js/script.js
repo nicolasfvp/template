@@ -1,0 +1,22 @@
+$(document).ready(function(){
+    $("#bulbasaur").click(function(){
+        $("#bulbasaur").hide()
+        $("#bulbasaurinfos").show()
+    })
+    $("#ivysaur").click(function(){
+        $("#ivysaur").hide()
+        $("#ivysaurinfos").show()
+    })
+    $("#venusaur").click(function(){
+        $("#venusaur").hide()
+        $("#venusaurinfos").show()
+    })
+    $("#venushiny").click(function(){
+        $("#shinyvenusaur").show()
+        $("#venusaurinfos").hide()
+    })
+    $("#shinyvenusaur").click(function(){
+        $("#shinyvenusaur").hide()
+        $("#shinyvenusaurinfos").show()
+    })
+})
